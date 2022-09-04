@@ -22,4 +22,6 @@ Creeate a movie database using wikipedia data, kaggle matadata, and movie lens r
 ## Summary 
 
 ### Results
->>>>>>> 74ba3d416adb2c9cf315d94356cd3ac53b8ecbba
+
+![movies_query](https://user-images.githubusercontent.com/101226991/188307490-5ffe413c-6d24-4f00-b756-859e3c715f8e.png)
+![ratings_query](https://user-images.githubusercontent.com/101226991/188307495-9133937b-e1fd-435a-8bf4-1d91de3de9fc.png)
